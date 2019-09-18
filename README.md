@@ -1,4 +1,4 @@
-# Latent Genius (Themes)
+# Latent Genius Themes
 
 ## Problem
 
