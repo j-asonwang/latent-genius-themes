@@ -15,5 +15,3 @@ Genius API
 
 ~68k tracks -> 1,500 tracks w/ annotations
 
-
-# Wave-Heights
