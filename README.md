@@ -1,4 +1,4 @@
-# Latent Genius (Themes)
+# Latent Genius Themes
 
 ## Problem
 
@@ -14,5 +14,4 @@ Genius API
  - Corresponding annotations of tracks
 
 ~68k tracks -> 1,500 tracks w/ annotations
-
 
